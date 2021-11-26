@@ -5,6 +5,7 @@ header {
   padding: 10px;
   margin: auto;
   text-align: left;
+  height: 100px;
 }
 /* the text-align property is used to put every element in the divisor to the center*/
 div {
